@@ -1,4 +1,4 @@
-public class Pattern_12 {
+public class Pattern_12_Pyramid {
     public static void main(String[] args) {
         int n=5;
 
